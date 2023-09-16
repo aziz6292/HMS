@@ -1,0 +1,28 @@
+	PERSONAL INFORMATION
+
+Name: Fatima Ansari
+Gender: Female
+Qualification: MBBS
+Specialty: Cardialogist
+Hospital Name: City Hospital
+
+	CONTACT INFORMATION
+
+Email: fatima.ansari12@gamil.com
+Contact: 0397494957
+
+	BANK DETAILS
+
+Account No: 7895
+Branch Code: 7856
+
+	AVAILABILITY
+
+Available 6 Hours a day
+Starting time 8
+Finishing time 4
+Available on:
+1.	Monday
+2.	Wednesday
+3.	Friday
+4.	Sunday

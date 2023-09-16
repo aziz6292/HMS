@@ -1,0 +1,28 @@
+	PERSONAL INFORMATION
+
+Name: Muhammad Abid
+Gender: Male
+Qualification: MBBS
+Specialty: Skin Specillist
+Hospital Name: City Hospital 
+
+	CONTACT INFORMATION
+
+Email: abid.roghani@gmail.com
+Contact: 03421452367
+
+	BANK DETAILS
+
+Account No: 12345677
+Branch Code: 1902
+
+	AVAILABILITY
+
+Available 8 Hours a day
+Starting time 5
+Finishing time 3
+Available on:
+1.	Monday
+2.	Tuesday
+3.	Friday
+4.	Sunday

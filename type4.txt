@@ -1,0 +1,27 @@
+	PERSONAL INFORMATION
+
+Name: Dr saarah khan
+Gender: Female
+Qualification: MBBS
+Specility: Kidny Specialist
+Hospital Name: General Hospital
+
+	CONTACT INFORMATION
+
+Email: saarah.khan122@gmail.com
+Contact: 03421234321
+
+	BANK DETAILS
+
+Account No: 12348765
+Branch Code: 1230
+
+	AVAILABILITY
+
+Available 6 Hours a day
+Starting time 9 am 
+Finishing time 3 pm 
+Available on:
+1.	Monday
+2.	Tuesday
+

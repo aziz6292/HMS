@@ -1,0 +1,27 @@
+	PERSONAL INFORMATION
+
+Name: Bilal Khan
+Gender: Male
+Qualification: MBBS
+Specialty: Phsychologist
+Hospital Name: City Hospital
+
+	CONTACT INFORMATION
+
+Email: bilalkhan.123@gmail.com
+Contact: 1234567889
+
+	BANK DETAILS
+
+Account No: 12345678
+Branch Code: 3342
+
+	AVAILABILITY
+
+Available 5 Hours a day
+Starting time 9
+Finishing time am
+Available on:
+1.	Sunday
+2.	Monday
+3.	Tuesday

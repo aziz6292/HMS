@@ -1,0 +1,28 @@
+	PERSONAL INFORMATION
+
+Name: Dr. Alina Ali
+Gender: Female
+Qualification: MBBS
+Specialty: Orthopadic
+Hospital Name: General Hospital
+
+	CONTACT INFORMATION
+
+Email: alina.ali12@gmail.com
+Contact: 03421234567
+
+	BANK DETAILS
+
+Account No: 12348765
+Branch Code: 1230
+
+	AVAILABILITY
+
+Available 7 Hours a day
+Starting time 7 am 
+Finishing time 2 pm 
+Available on:
+1.	Monday
+2.	Tuesday
+3.	Friday
+4.	Sunday

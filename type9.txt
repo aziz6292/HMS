@@ -1,0 +1,26 @@
+	PERSONAL INFORMATION
+
+Name: Nabeela Khan
+Gender: Female
+Qualification: MBBS
+Specialty: Gynocologist
+Hospital Name: General Hospital
+
+	CONTACT INFORMATION
+
+Email: nabeela.khan123@gmail.com
+Contact: 03421234567
+
+	BANK DETAILS
+
+Account No: 12345678
+Branch Code: 8765
+
+	AVAILABILITY
+
+Available 5 Hours a day
+Starting time 7 am 
+Finishing time 12pm pm 
+Available on:
+1.	Sunday
+2.	Tuesday
